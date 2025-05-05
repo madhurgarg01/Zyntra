@@ -1,0 +1,22 @@
+.about-page {
+    padding: 2rem;
+    color: #fff;
+    background: linear-gradient(145deg, #000, #333);
+  }
+  
+  .about-header {
+    text-align: center;
+  }
+  
+  .about-content {
+    margin-top: 2rem;
+  }
+  
+  .about-content ul {
+    list-style-type: none;
+  }
+  
+  .about-content li {
+    margin: 1rem 0;
+  }
+  
