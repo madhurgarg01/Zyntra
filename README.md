@@ -1,70 +1,50 @@
-# Getting Started with Create React App
+# 🚑 Zyntra - On-Demand Ambulance Service
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Zyntra is a responsive web application designed to provide quick and easy on-demand ambulance services. Built using HTML, CSS, and JavaScript, Zyntra helps users request ambulances efficiently in emergency situations.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 🌟 Features
+- User-friendly interface for requesting ambulance services
+- Responsive design compatible with all devices
+- Interactive forms to capture user and emergency details
+- Real-time updates and notifications (basic simulation)
+- Location input for ambulance pickup and drop-off points
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🚀 Getting Started
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### Prerequisites
+- Modern web browser (Chrome, Firefox, Edge, Safari)
+- Code editor (optional, for development)
 
-### `npm test`
+### Installation
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/madhurgarg01/zyntra.git
+   cd zyntra
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🛠️ Technologies Used
+HTML5
 
-### `npm run build`
+CSS3
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+JavaScript (Vanilla)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+🖥️ Usage
+Fill out the ambulance request form with required details.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Submit the form to simulate ambulance booking.
 
-### `npm run eject`
+Experience responsive UI on any device.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+🤝 Contributing
+Contributions are welcome! Feel free to fork the repo and create a pull request.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+📄 License
+This project is licensed under the MIT License.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+📧 Contact
+For questions or feedback, contact me at madhurgarg052@gmail.com.
